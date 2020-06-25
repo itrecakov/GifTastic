@@ -1,7 +1,7 @@
-body {
-  background: URL(/Users/iva/Desktop/Coding/Homework/Giftastic/assets/images/Friends.png);
+body { 
+  /* background: url("/assets/images/Friends.png");
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: top center; */
   background-color: #e0d04a;
   font-family: "Amatic SC", cursive;
   text-align: center;
